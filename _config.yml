@@ -1,5 +1,5 @@
 title: Just Do It
-author: 오도원
+author: Oh Dowon
 email: dhehdnjs03@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   for git study
@@ -10,7 +10,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Oh Dowon
+  name: 오도원
   tagline: Developer. Student
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
